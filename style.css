@@ -6,7 +6,7 @@ main {
     align-items: stretch;
 }
 
-.flex-child {
+.grid-section {
     padding: 10px;
     background-color: red;
     margin: 10px;
